@@ -1,0 +1,2 @@
+# Supervised-Machine-Learning---Regression
+Regression Analysis is a tool that uses data on relevant variables to develop a prediction equation or model. It generates an equation to describe the statistical relationship between a dependent variable (response) and one or more independent variable (predictor) to predict new observation. Regression Analysis + Correlation = Predict future performance using past results.
