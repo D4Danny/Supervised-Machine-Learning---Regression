@@ -19,3 +19,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/de/Dispersion-con-regresio
 
 Simple linear regression is useful for finding relationship between TWO CONTINUES VARIABLES. One is predictor or independent variable and other is response or dependent variable.
 In Simple Linear regression, a single variable “X” is used to predict “Y”.
+
+### Business Case and Prediction using Simple Linear Regression Model.
+
