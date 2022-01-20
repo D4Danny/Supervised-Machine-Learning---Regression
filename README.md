@@ -22,3 +22,5 @@ In Simple Linear regression, a single variable “X” is used to predict “Y�
 
 ### Business Case and Prediction using Simple Linear Regression Model.
 
+#### [Prediction-for-Delivery-Time](https://github.com/D4Danny/Prediction-for-Delivery-Time/blob/main/Prediction%20for%20Delivery%20Time.ipynb)
+#### Predict Delivery Time using Sorting time by building a Simple Linear Regression Model and performing EDA and necessary transformations. Select the best model using Python.
