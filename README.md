@@ -20,7 +20,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/d/de/Dispersion-con-regresio
 Simple linear regression is useful for finding relationship between TWO CONTINUES VARIABLES. One is predictor or independent variable and other is response or dependent variable.
 In Simple Linear regression, a single variable “X” is used to predict “Y”.
 
-##### Business Case and Prediction using Simple Linear Regression Model.
+#### Business Case and Prediction using Simple Linear Regression Model.
 
 ### [Prediction-for-Delivery-Time](https://github.com/D4Danny/Prediction-for-Delivery-Time/blob/main/Prediction%20for%20Delivery%20Time.ipynb)
 #### Predict Delivery Time using Sorting time by building a Simple Linear Regression Model and performing EDA and necessary transformations. Select the best model using Python.
