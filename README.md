@@ -28,3 +28,20 @@ In Simple Linear regression, a single variable “X” is used to predict “Y�
 
 ### 2.[Prediction-for-Salary-Hike](https://github.com/D4Danny/Predict-Salary-Hike/blob/main/Prediction%20Model%20for%20Salary%20Hike%20revised.ipynb)
 #### Build a prediction model for Salary hike by performing EDA and do necessary transformations and select the best model using Python.
+
+
+
+
+
+### Multiple Linear Regression. <a name="MLR"></a>
+Multiple linear regression refers to a statistical technique that uses two or more independent variables to predict the outcome of a dependent variable. 
+
+#### Business Case and Prediction using Multiple Linear Regression Model.
+
+### 1. [Profit-Prediction-for-Startup-Business](https://github.com/D4Danny/Profit-Prediction-for-Startup-Business/blob/main/50%20Startups%20Prediction.ipynb)
+#### Prepare a prediction model for profit of 50_startups data based on their spends on Administration, Research and Marketing . Do transformations for getting better predictions of profit and make a table containing R^2 value for each prepared model.
+
+
+### 2.[Price-Prediction-for-Toyota-Cars](https://github.com/D4Danny/Price-Prediction-for-Toyota-Cars/blob/main/Price%20prediction%20model%20for%20Toyota%20Corolla%20Cars.ipynb)
+#### A large Toyota Car delaership rolled out USED CARS exchange offer for a new car. To ensure a reasonable profit, the dealer needs to be able to predict the price that the dealership will get for used cars. DATA were collected on all previous sales of used Toyota cars at the dealership. We have a dataset of 1000 Plus cars
+
